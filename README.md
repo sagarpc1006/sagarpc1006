@@ -66,6 +66,10 @@ fun_fact: I love mathematics and coding
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagarpc1006&bg_color=0d1117&color=2575fc&line=6a11cb&point=ffffff&theme=react-dark" width="100%"/>
 </div>
 <br/>
+🐍 Contribution Snake
+<div align="center"> <img src="https://raw.githubusercontent.com/yadnyeshkhotre/yadnyeshkhotre/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/> </div> <br/>
+📈 Contribution Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadnyeshkhotre&bg_color=0d1117&color=2575fc&line=6a11cb&point=ffffff&theme=react-dark" width="100%"/> </div> <br/>
 ## 🤝 Connect With Me
  
 <div align="center">
@@ -78,6 +82,7 @@ fun_fact: I love mathematics and coding
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" width="100%"/>
 </div>
 <div align="center">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=sagarpc1006&color=blueviolet&style=flat-square&label=Profile+Views)
  
 </div>
