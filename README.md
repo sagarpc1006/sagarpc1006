@@ -66,10 +66,12 @@ fun_fact: I love mathematics and coding
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagarpc1006&bg_color=0d1117&color=2575fc&line=6a11cb&point=ffffff&theme=react-dark" width="100%"/>
 </div>
 <br/>
+
 🐍 Contribution Snake
-<div align="center"> <img src="https://raw.githubusercontent.com/yadnyeshkhotre/yadnyeshkhotre/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/> </div> <br/>
+<div align="center"> <img src="https://raw.githubusercontent.com/sagarpc1006/sagarpc1006/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/> </div> <br/>
 📈 Contribution Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadnyeshkhotre&bg_color=0d1117&color=2575fc&line=6a11cb&point=ffffff&theme=react-dark" width="100%"/> </div> <br/>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagarpc1006&bg_color=0d1117&color=2575fc&line=6a11cb&point=ffffff&theme=react-dark" width="100%"/> </div> <br/>
+
 ## 🤝 Connect With Me
  
 <div align="center">
