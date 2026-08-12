@@ -65,28 +65,3 @@
 
 ---
 
-### 📌 Featured Projects
-
-<!--
-  Replace REPO_NAME_1 / REPO_NAME_2 / REPO_NAME_3 below with your actual repository names
-  (the exact name as it appears in the repo URL, e.g. github.com/sagarpc1006/REPO_NAME_1).
-  Tell me the repo names and I'll fill these in for you.
--->
-
-<p align="center">
-  <a href="https://github.com/sagarpc1006/REPO_NAME_1">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=sagarpc1006&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/sagarpc1006/REPO_NAME_2">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=sagarpc1006&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/sagarpc1006/REPO_NAME_3">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=sagarpc1006&repo=REPO_NAME_3&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
-<p align="center"><i>Thanks for stopping by — feel free to connect!</i> ✨</p>
