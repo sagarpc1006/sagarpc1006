@@ -1,15 +1,23 @@
-<h1 align="center">Hi 👋, I'm Sagar Yadav</h1>
-<h3 align="center">A Passionate Data Analyst from India</h3>
+<h1 align="center">Hi there, I'm Sagar Yadav 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarpc1006&label=Profile%20views&color=0e75b6&style=flat" alt="sagarpc1006" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=550&lines=Data+Analyst+from+India;SQL+%7C+Python+%7C+Power+BI+%7C+Data+Cleaning;Turning+Raw+Data+into+Real+Insights" alt="Typing SVG" />
+</p>
 
-- 🌱 I’m currently learning **Data Analysis**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sagarpc1006&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/sagarpc1006?label=Followers&style=flat&color=0e75b6" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsagarpc1006&label=Public%20Repos&query=%24.public_repos&color=0e75b6" alt="Public Repos" />
+</p>
 
-- 💬 Ask me about **: SQL, Python, Power BI, and Data Cleaning**
+---
 
-- 📫 How to reach me **: sagarpc1006@gmail.com**
+### 🧭 About Me
 
-- ⚡ Fun fact **: I like to stay busy**
+- 🌱 I'm currently learning **Data Analysis**
+- 💬 Ask me about **SQL, Python, Power BI, and Data Cleaning**
+- 📫 How to reach me: **sagarpc1006@gmail.com**
+- ⚡ Fun fact: **I like to stay busy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,11 +27,66 @@
 <a href="https://www.leetcode.com/sagaryadav10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sagaryadav10" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarpc1006&show_icons=true&locale=en&layout=compact" alt="sagarpc1006" /></p>
+### 🛠️ Languages & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagarpc1006&show_icons=true&locale=en" alt="sagarpc1006" /></p>
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarpc1006&" alt="sagarpc1006" /></p>
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sagarpc1006&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarpc1006&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sagarpc1006&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagarpc1006&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+<!--
+  Replace REPO_NAME_1 / REPO_NAME_2 / REPO_NAME_3 below with your actual repository names
+  (the exact name as it appears in the repo URL, e.g. github.com/sagarpc1006/REPO_NAME_1).
+  Tell me the repo names and I'll fill these in for you.
+-->
+
+<p align="center">
+  <a href="https://github.com/sagarpc1006/REPO_NAME_1">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=sagarpc1006&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/sagarpc1006/REPO_NAME_2">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=sagarpc1006&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/sagarpc1006/REPO_NAME_3">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=sagarpc1006&repo=REPO_NAME_3&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+<p align="center"><i>Thanks for stopping by — feel free to connect!</i> ✨</p>
