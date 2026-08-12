@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Data Analysis**
 
-- 💬 Ask me about **:SQL, Python, Power BI, and Data Cleaning.**
+- 💬 Ask me about **: SQL, Python, Power BI, and Data Cleaning.**
 
-- 📫 How to reach me **:sagarpc1006@gmail.com**
+- 📫 How to reach me **: sagarpc1006@gmail.com**
 
 - ⚡ Fun fact **: I like to stay busy**
 
