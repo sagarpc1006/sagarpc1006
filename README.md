@@ -3,11 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=550&lines=Data+Analyst+from+India;SQL+%7C+Python+%7C+Power+BI+%7C+Data+Cleaning;Turning+Raw+Data+into+Real+Insights" alt="Typing SVG" />
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sagarpc1006&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/sagarpc1006?label=Followers&style=flat&color=0e75b6" alt="Followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsagarpc1006&label=Public%20Repos&query=%24.public_repos&color=0e75b6" alt="Public Repos" />
-</p>
 <hr>
 <h3 align="center">🧭 About Me</h3>
  
