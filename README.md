@@ -11,7 +11,7 @@
 💬 Ask me about : SQL, Python, Power BI, and Data Cleaning <br>
 📫 How to reach me : sagarpc1006@gmail.com <br>
 ⚡ Fun fact : I like to stay busy
- 
+ <hr>
 </div>
 <h3 align="center">🌐 Connect with me</h3>
 <p align="center">
