@@ -12,13 +12,13 @@
 <h3 align="center">🧭 About Me</h3>
  
 <div align="center">
-🌱 I'm currently learning **Data Analysis**<br>
-💬 Ask me about **SQL, Python, Power BI, and Data Cleaning**<br>
-📫 How to reach me: **sagarpc1006@gmail.com**<br>
-⚡ Fun fact: **I like to stay busy**
+🌱 I'm currently learning Data Analysis<br>
+💬 Ask me about : SQL, Python, Power BI, and Data Cleaning <br>
+📫 How to reach me : sagarpc1006@gmail.com <br>
+⚡ Fun fact : I like to stay busy
  
 </div>
-<h3 align="center">🌐 Connect with me:</h3>
+<h3 align="center">🌐 Connect with me</h3>
 <p align="center">
 <a href="https://linkedin.com/in/sagar-yadav-3b4381384" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar-yadav-3b4381384" height="30" width="40" /></a>
 <a href="https://kaggle.com/sagaryadav1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sagaryadav1010" height="30" width="40" /></a>
